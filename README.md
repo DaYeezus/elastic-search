@@ -1,0 +1,2 @@
+# ElasticSearch Project
+## Super minimal and simple project to practice elastic search using Express,ElasticSearch,Kibana & Docker as always make sure to creade a index from indices route first before testing blogs route.
